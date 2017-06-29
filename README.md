@@ -1,6 +1,6 @@
 # project
 
-Thisi is a first try to gt engineering project management into the agile world.
+This is a first try to get engineering project management into the agile world.
 
 Most important features are:
 - simplicity for users
